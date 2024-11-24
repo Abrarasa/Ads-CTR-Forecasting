@@ -17,5 +17,5 @@ So, the process begins with collecting data. I found an ideal dataset for the ta
 
 ## Contact
 
-Email - abrarasa458@gmail.com
+Email - syedabrar.ds@gmail.com
 LinkedIn - https://www.linkedin.com/in/abrar-syed-772703254/
